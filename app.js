@@ -166,5 +166,7 @@ app.post('/ajaxmessage', (req, res) => {
   res.json(messages);
 });
 
+app.set('port', PORT);
+
 app.listen(PORT, () => console.log(`✅ Server running on http://localhost:${PORT}`));
 

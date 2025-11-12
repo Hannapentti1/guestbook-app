@@ -24,7 +24,7 @@ nav a:hover {
 }
 
 h1, h2 {
-  color: #ff69b4; /* pinkit otsikot */
+  color: #635059; /*otsikot */
   text-align: center;
   margin-top: 30px;
 }
@@ -34,7 +34,7 @@ table {
   margin: 30px auto;
   border-collapse: collapse;
   background-color: #1a1a1a; /* tummempi taustaväri taulukolle */
-  box-shadow: 0 0 10px #ff69b4;
+  box-shadow: 0 0 10px #ebd3df;
   border-radius: 10px;
   overflow: hidden;
 }
@@ -46,14 +46,14 @@ th, td {
 }
 
 th {
-  background-color: #ff69b4;
+  background-color: #e4b4cc;
   color: #000;
 }
 
 button, input, select, textarea {
   background-color: #1a1a1a;
   color: #ffb6c1;
-  border: 1px solid #ff69b4;
+  border: 1px solid #f6b9d8;
   padding: 8px;
   border-radius: 6px;
 }
