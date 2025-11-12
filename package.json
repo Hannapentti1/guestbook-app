@@ -1,15 +1,16 @@
 {
   "name": "guestbook-app",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Simple guestbook web app using Node.js and Express",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node app.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hanna Pentti",
   "license": "ISC",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "body-parser": "^1.20.2"
   }
 }
