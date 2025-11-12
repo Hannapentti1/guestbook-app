@@ -14,8 +14,4 @@ Live: [https://guestbook-app-1-jema.onrender.com](https://guestbook-app-1-jema.o
 ### Prerequisites
 You must have Node.js (version 18 or later) installed.
 
-### Setup Instructions
-1. Install dependencies defined in `package.json`:
-```bash
-npm install
 
